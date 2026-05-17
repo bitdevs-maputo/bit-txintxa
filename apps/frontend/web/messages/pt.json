@@ -1,14 +1,17 @@
 {
      "navegation":{
         "sellbtc": "Vender BTC",
-        "buybtc": "Comprar BTC"
+        "buybtc": "Comprar BTC",
+        "sub-title": "P2P e exchange descentralizada"
     },
     "authbtn":{
         "login": "Entrar",
         "signup": "Registar-se"
     },
     "HomePage": {
-        "title": "Ola mundo",
-        "btnContent": "New release: Bit Txintxa is now live!"
+        "first": "Compra e venda direta de Bitcoin",
+        "second": "Exchange descentralizada de Bitcoin",
+        "call-atention": "Uma plataforma descentralizada de trading de Bitcoin peer-to-peer, construída sobre o protocolo Nostr, onde os utilizadores negoceiam diretamente sem intermediários e mantêm total controlo do seu dinheiro."
     }
 }
+
